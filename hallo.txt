@@ -1,9 +1,0 @@
-hi hallo how r u
-i am very fine
-and noice
-hallo baby
-<<<<<<< HEAD
-hi hallo hoe r u
-=======
-hii mubai
->>>>>>> thirsty
